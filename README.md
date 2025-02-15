@@ -46,13 +46,15 @@ streamlit run app.py
 
 
 ## Screenshots
-
-![image](https://github.com/vaish06navi/WhatsApp-Chat-Sentiment-Analyzer/assets/132326467/90143267-b8ba-466a-bda4-baee25ff280a)
-![image](https://github.com/vaish06navi/WhatsApp-Chat-Sentiment-Analyzer/assets/132326467/7188853e-0649-4541-bc67-748baa4c041a)
-![image](https://github.com/vaish06navi/WhatsApp-Chat-Sentiment-Analyzer/assets/132326467/691db940-3d28-4081-8704-e87f28fd56b8)
-![image](https://github.com/vaish06navi/WhatsApp-Chat-Sentiment-Analyzer/assets/132326467/68825970-fa5f-4e19-90a5-6ae809644ca3)
-
-
+![image](https://github.com/user-attachments/assets/b7970872-1da2-49ba-9b42-feff40e9d607)
+![image](https://github.com/user-attachments/assets/27dc470e-9d14-40be-8da5-50667a5a5cd7)
+![image](https://github.com/user-attachments/assets/a6bf12e2-acf5-4894-b50a-01498052816d)
+![image](https://github.com/user-attachments/assets/c9a7d801-dc8c-40fe-ab3a-faa206a40a3e)
+![image](https://github.com/user-attachments/assets/f561013f-c424-4333-9b8f-5c7ed99834de)
+![image](https://github.com/user-attachments/assets/cf71211b-79ff-4589-9d66-8acfff4e0959)
+![image](https://github.com/user-attachments/assets/8e9befeb-a5a2-420a-94af-6f4b570b7e05)
+![image](https://github.com/user-attachments/assets/032c8990-1e85-47ed-82bb-e23da7c5c2cd)
+![image](https://github.com/user-attachments/assets/e20824c2-16f3-4bbc-9445-ec5fe973eabc)
 
 
 
