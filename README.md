@@ -16,10 +16,8 @@ During its development, I conducted extensive experiments on WhatsApp data, expl
 - Most user(Positive, Neutral, Negative)
 
 **Google Colab Links for ML analysis**
-**Lab** : [https://colab.research.google.com/drive/1llhW4lTgoqYp6aVa8OX5SgnKVA-U05sM#scrollTo=uLJPfZnonwFn](https://colab.research.google.com/drive/1llhW4lTgoqYp6aVa8OX5SgnKVA-U05sM?usp=sharing)
-
-**SA** : https://colab.research.google.com/drive/1E8LYSN161K_2tCBpu6Iue7nGdMDr2Ldp?usp=sharing
-
+**Lab** :     https://colab.research.google.com/drive/10SCZ9ceYN1a1bd0Bx8taTEZzoQIZJvtJ
+**SA** :      https://colab.research.google.com/drive/10kUwNMSpwewNdBbHthrCuoOiOCLfH8vO
 ![image](https://github.com/user-attachments/assets/1ab2a83e-96e3-4bdc-b7ec-3862f996b158)
 
 ## Run locally
